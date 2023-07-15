@@ -1,0 +1,28 @@
+#front-body {
+      text-align: center;
+      font-family: Verdana, Tahoma, sans-serif;
+      background-color: rgb(220, 185, 182);
+}
+p , hr{
+      font-size: 20px;
+      font-family: Consolas, "Courier New", Monospace;
+      font-weight: 700;
+      color: rgb(122, 24, 62);
+}
+
+img {
+      width: 600px;
+      height: auto;
+      padding: 10px;
+      border-radius: 10%;
+      border-color: navy;
+      border-style: solid;
+}
+
+ul, a {
+      color: rgb(30, 92, 30);
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 18px;
+      list-style: none;
+      text-decoration-line: none;
+}
