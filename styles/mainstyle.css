@@ -1,7 +1,7 @@
 #front-body {
       text-align: center;
       font-family: Verdana, Tahoma, sans-serif;
-      background-color: rgb(210, 170, 240);
+      background-color: rgb(220, 200, 235);
 }
 p , hr{
       font-size: 20px;
@@ -23,6 +23,6 @@ ul, a {
       color: rgb(22, 80, 22);
       font-family: Helvetica, Arial, sans-serif;
       font-size: 18px;
-      list-style: none;
+      list-style: square;
       text-decoration-line: none;
 }

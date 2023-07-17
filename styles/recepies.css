@@ -1,5 +1,5 @@
 .recipe-page {
-      background-color: rgb(213, 241, 240);
+      background-color: rgb(44, 44, 44);
       text-align: center;
 }
 
@@ -13,20 +13,34 @@
 
 .desc, #Description{     
       text-align: left;
-      font-family: Cambria, "times new roman", sans-serif;
+      font-family: Arial, Helvetica, sans-serif;
       font-size: 24px;
+      color: rgb(10, 214, 163);
 }
 #Description {
       font-size: 18px;
+      font-family: Cambria, "times new roman", serif;
 }
 
 .ing, #ingredients-list{
       text-align: left;
-      font-family: Cambria, "times new roman", sans-serif;
+      font-family: Arial, Helvetica, sans-serif;
       font-size: 22px;
 }
 
 #ingredients-list{
       font-size: 18px;
       list-style-type: square;
+      font-family: Cambria, "times new roman", sans-serif;
+}
+
+.stp, #recipe-steps {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 22px;
+      text-align: left; 
+}
+
+#recipe-steps{
+      font-size: 18px;
+      font-family: Cambria, "times new roman", sans-serif;
 }
