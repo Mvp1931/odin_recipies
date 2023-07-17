@@ -1,0 +1,12 @@
+.recipe-page {
+      background-color: rgb(213, 241, 240);
+      text-align: center;
+}
+
+.recipe-name {
+      font-weight : 500;
+      font-size: 2.5rem;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: rgb(231, 13, 104);
+
+}
