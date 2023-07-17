@@ -10,3 +10,23 @@
       color: rgb(231, 13, 104);
 
 }
+
+.desc, #Description{     
+      text-align: left;
+      font-family: Cambria, "times new roman", sans-serif;
+      font-size: 24px;
+}
+#Description {
+      font-size: 18px;
+}
+
+.ing, #ingredients-list{
+      text-align: left;
+      font-family: Cambria, "times new roman", sans-serif;
+      font-size: 22px;
+}
+
+#ingredients-list{
+      font-size: 18px;
+      list-style-type: square;
+}
