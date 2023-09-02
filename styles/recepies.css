@@ -1,13 +1,13 @@
 .recipe-page {
-      background-color: rgb(44, 44, 44);
+      background-color: #193a33;
       text-align: center;
 }
 
 .recipe-name {
       font-weight : 500;
-      font-size: 2.5rem;
+      font-size: 2.2rem;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: rgb(231, 13, 104);
+      color: coral;
 
 }
 
@@ -26,6 +26,7 @@
       text-align: left;
       font-family: Arial, Helvetica, sans-serif;
       font-size: 22px;
+      color: aquamarine;
 }
 
 #ingredients-list{
@@ -37,10 +38,20 @@
 .stp, #recipe-steps {
       font-family: Arial, Helvetica, sans-serif;
       font-size: 22px;
-      text-align: left; 
+      text-align: left;
+      color: azure; 
 }
 
 #recipe-steps{
       font-size: 18px;
       font-family: Cambria, "times new roman", sans-serif;
+}
+
+#home-button {
+      text-decoration: none;
+      color: navy;
+      background-color: azure;
+      padding: 10px auto;
+      font-size: larger;
+      font-family: 'Courier Prime', 'Courier New', Courier, monospace;
 }

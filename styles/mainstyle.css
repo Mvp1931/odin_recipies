@@ -1,28 +1,28 @@
 #front-body {
       text-align: center;
       font-family: Verdana, Tahoma, sans-serif;
-      background-color: rgb(220, 200, 235);
-}
-p , hr{
-      font-size: 20px;
-      font-family: Consolas, "Courier New", Monospace;
-      font-weight: 700;
-      color: rgb(225, 20, 100);
+      background-color: #193a33;
 }
 
-img {
-      width: 600px;
-      height: auto;
+.main-header {
+      font-family: Helvetica, Tahoma, Arial, sans-serif;
+      color: coral;
+}
+
+.front-title {
+      color: aquamarine;
+}
+
+#front-img {
       padding: 10px;
-      border-radius: 10%;
-      border-color: rgb(0, 0, 100);
-      border-style: solid;
+      border: solid 0.8em antiquewhite;
+      border-radius: 15%;
 }
 
-ul, a {
-      color: rgb(22, 80, 22);
-      font-family: Helvetica, Arial, sans-serif;
-      font-size: 18px;
-      list-style: square;
-      text-decoration-line: none;
+.recipe-list a{
+      list-style: circle;
+      color: aliceblue;
+      text-decoration: solid;
+      font-family: 'Courier Prime','Courier New', Courier, monospace;
+      font-size: large;      
 }
